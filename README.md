@@ -19,13 +19,13 @@
 This repository provides a Python auto-installer to set up and launch **Google Antigravity CLI** (`agy`) in Termux on Android.
 
 - **GitHub:** [https://github.com/Sumon523022/Google_Antigravity_CLI.git](https://github.com/Sumon523022/Google_Antigravity_CLI.git)
-- **YouTube:** Add your YouTube video/channel link here *(e.g., `https://youtube.com/@YourChannel`)*
+- **YouTube:** Add your YouTube video/channel link here *(e.g., `https://youtube.com/@CrimsonHunter25`)*
 
 ---
 
 ## YouTube Tutorial
 
-- **Watch on YouTube:** [https://youtube.com/](https://youtube.com/) *(Replace with your YouTube video or channel link)*
+- **Watch on YouTube:** [https://youtube.com/](https://youtube.com/@CrimsonHunter25) *(Replace with your YouTube video or channel link)*
 
 ---
 
