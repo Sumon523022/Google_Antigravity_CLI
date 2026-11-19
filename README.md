@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file_00000000ff5082119dd40d62294ec4ec.png" alt="Google Antigravity CLI Termux Auto Installer Logo" width="220">
+  <img src="https://ibb.co.com/0yw8WvfM" alt="Google Antigravity CLI Termux Auto Installer Logo" width="220">
 </p>
 
 <h1 align="center">Google Antigravity CLI — Termux Auto Installer</h1>
