@@ -41,4 +41,7 @@ This repository provides a Python auto-installer to set up and launch **Google A
 ## Run Installer
 
 ```bash
-pkg install python git -y && git clone [https://github.com/Sumon523022/Google_Antigravity_CLI.git](https://github.com/Sumon523022/Google_Antigravity_CLI.git) && cd Google_Antigravity_CLI && python agy_Ai.py
+pkg install python git -y
+git clone https://github.com/Sumon523022/Google_Antigravity_CLI.git
+cd Google_Antigravity_CLI
+python agy_Ai.py
