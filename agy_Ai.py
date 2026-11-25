@@ -23,7 +23,7 @@ def banner():
     os.system("clear" if os.name != "nt" else "cls")
     art = f"""
 {Colors.CYAN}{Colors.BOLD}╔══════════════════════════════════════════════════════════════╗
-║   {Colors.MAGENTA}✦ {Colors.WHITE}GOOGLE ANTIGRAVITY CLI {Colors.CYAN}• {Colors.YELLOW}TERMUX AUTO INSTALLER {Colors.MAGENTA}✦{Colors.CYAN}          ║
+║   {Colors.MAGENTA}✦ {Colors.WHITE}GOOGLE ANTIGRAVITY CLI {Colors.CYAN}• {Colors.YELLOW}TERMUX AUTO INSTALLER {Colors.MAGENTA}✦{Colors.CYAN}         ║
 ║      {Colors.DIM}{Colors.WHITE}Unique Edition  |  Auto-Setup  |  Auto-Launch{Colors.CYAN}           ║
 ╚══════════════════════════════════════════════════════════════╝{Colors.RESET}
 """
